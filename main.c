@@ -42,7 +42,7 @@
     TERMS.
 */
 
-#include "mcc_generated_files/mcc.h"
+#include "bsp/mcc.h"
 
 /*
                          Main application

@@ -1,5 +1,5 @@
-build/default/production/_ext/43898991/main.o:  \
-../../main.c  \
+build/default/debug/_ext/1445258399/mcc.o:  \
+../../bsp/mcc.c  \
  ../../bsp/mcc.h  \
 ../../bsp/pin_manager.h  \
 ../../bsp/interrupt_manager.h 
