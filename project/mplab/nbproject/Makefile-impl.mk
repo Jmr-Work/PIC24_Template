@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Base.X
+PROJECTNAME=mplab
 
 # Active Configuration
 DEFAULTCONF=default
