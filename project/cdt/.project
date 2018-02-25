@@ -25,11 +25,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>bsp</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
 			<name>main.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/main.c</locationURI>

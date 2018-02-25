@@ -42,6 +42,10 @@
     TERMS.
 */
 
+#ifdef _COMPILE_WITH_ECLIPSE_
+	#include "bsp\cdt.h"
+#endif
+
 // Configuration bits: selected in the GUI
 
 // FSEC
